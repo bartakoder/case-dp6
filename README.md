@@ -2,6 +2,10 @@
 
 Implementação dos eventos de Google Analytics 4 utilizando gtag.js conforme especificação do case técnico da DP6.
 
+
+Link para o projeto publicado: https://bartakoder.github.io/case-dp6/
+
+
 ## Tecnologias
 
 - HTML
